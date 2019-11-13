@@ -1,7 +1,5 @@
 package br.com.eletronicpoint.dtos
 
-import br.com.eletronicpoint.enums.TypePoint
-import java.util.*
 import javax.validation.constraints.NotBlank
 
 data class PointDto(
